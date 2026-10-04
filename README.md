@@ -95,7 +95,7 @@ Because the sample size is limited, all findings in this project are treated as:
 
 ### Raw Data
 
-[View anonymized survey responses](BataProjectResponses(1).xlsx)
+[View raw survey responses](Bata%20Project%20Responses%20%281%29.xlsx)
 
 ---
 
@@ -149,7 +149,7 @@ The final Excel workbook contains the complete analytical workflow:
 
 ### Final Excel Workbook
 
-[View the complete Excel analysis](02_analysis/BATA_NEXT_Business_Analytics_Project.xlsx)
+[View the complete Excel analysis](BATA_NEXT_Business_Analytics_Project.xlsx)
 
 ---
 
@@ -472,6 +472,9 @@ The interactive Power BI dashboard was created to visualise:
 - Purchase barriers
 - Desired improvements
 
+### Power BI Source File
+[Download the Power BI file](Bata%20Project.pbix)
+
 ![BATA NEXT Power BI Dashboard]<img width="1300" height="730" alt="Power BI Dashboard" src="https://github.com/user-attachments/assets/72ea0bd5-aa2f-46e3-a36e-473a16552695" />
 
 
@@ -612,8 +615,10 @@ Therefore:
 
 # Case Study Presentation
 
-[View the complete BATA NEXT presentation](04_case_study/BATA_NEXT_Business_Analytics_Case_Study_Shivani_Sethi.pptx)
+[View the complete BATA NEXT presentation](BATA_NEXT_Business_Analytics_Case_Study_Shivani_Sethi.pptx)
 
+### Case Study PDF
+[View the complete case study](BATA_NEXT_Business_Analytics_Case_Study.pdf)
 ---
 
 # About the Author
