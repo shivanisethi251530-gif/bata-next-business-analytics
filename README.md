@@ -554,32 +554,24 @@ Business KPIs
 ```text
 bata-next-business-analytics/
 │
-├── README.md
-├── DISCLAIMER.md
-│
 ├── 01_research/
-│   ├── questionnaire.md
-│   └── BATA_NEXT_Raw_Survey_Responses_Anonymized.xlsx
+│   └── questionnaire.md
 │
-├── 02_analysis/
-│   └── BATA_NEXT_Business_Analytics_Project.xlsx
+├── BATA NEXT_ Gen Z Growth Strategy.png
 │
-├── 03_dashboard/
-│   ├── BATA_NEXT_PowerBI_Dashboard.png
-│   └── BATA_NEXT_PowerBI_Dashboard.pbix
+├── BATA_NEXT_Business_Analytics_Case_Study.pdf
 │
-├── 04_case_study/
-│   ├── BATA_NEXT_Business_Analytics_Case_Study_Shivani_Sethi.pptx
-│   └── BATA_NEXT_Business_Analytics_Case_Study.pdf
+├── BATA_NEXT_Business_Analytics_Case_Study_Shivani_Sethi_v3.pptx
 │
-├── 05_assets/
-│   └── BATA_NEXT_Project_Cover.png
+├── BATA_NEXT_Business_Analytics_Project.xlsx
 │
-└── docs/
-    ├── methodology.md
-    ├── key_insights.md
-    ├── data_dictionary.md
-    └── business_strategy.md
+├── Bata Project Responses (1).xlsx
+│
+├── Bata Project.pbix
+│
+├── Power BI Dashboard.png
+│
+└── README.md
 ```
 
 ---
@@ -612,14 +604,13 @@ Therefore:
 - Recommendations should be validated through a larger and more diverse study before commercial implementation.
 
 ---
+## Case Study Presentation
 
-# Case Study Presentation
-
-[View the complete BATA NEXT presentation](BATA_NEXT_Business_Analytics_Case_Study_Shivani_Sethi.pptx)
-
-### Case Study PDF
+### PDF
 [View the complete case study](BATA_NEXT_Business_Analytics_Case_Study.pdf)
----
+
+### Editable PowerPoint
+[View / Download the PowerPoint Presentation](BATA_NEXT_Business_Analytics_Case_Study_Shivani_Sethi_v3.pptx)
 
 # About the Author
 
