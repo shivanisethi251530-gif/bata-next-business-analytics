@@ -95,7 +95,7 @@ Because the sample size is limited, all findings in this project are treated as:
 
 ### Raw Data
 
-[View anonymized survey responses](01_research/BATA_NEXT_Raw_Survey_Responses_Anonymized.xlsx)
+[View anonymized survey responses](BataProjectResponses(1).xlsx)
 
 ---
 
